@@ -1,4 +1,4 @@
-# Machine Learning Paper Trading ADVANCE Simulator
+# Machine Learning Paper Trader
 ## About
 This repo is a paper simulator to test the live performance of machine learning binary classifiers for choosing when to buy and sell stocks, cryptocurrencies, and other tradeable assets. This simulator is connected to the Coinbase exchange, but in theory, can be applied to any exchange and any asset class. You can plug and play any machine learning binary classifier to see its performance. The binary classifier should be trained to predict when the mid price will go up, and the simulator will show how accurately it is able to predict upward price movement. It will display the PnL of your model after the simulation.
 
