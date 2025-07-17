@@ -1,3 +1,4 @@
 .env
 price_level_data/
 .vscode/
+data_ingestion.py
